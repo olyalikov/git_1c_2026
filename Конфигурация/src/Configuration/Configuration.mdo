@@ -38,5 +38,4 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.ОбщийМодуль</commonModules>
 </mdclass:Configuration>
