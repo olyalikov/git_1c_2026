@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.Тест1</commonModules>
+  <commonModules>CommonModule.Тест2</commonModules>
 </mdclass:Configuration>
